@@ -1,7 +1,5 @@
-package refactoring_guru.flyweight.example.forest;
+package forest;
 
-import refactoring_guru.flyweight.example.trees.Tree;
-import refactoring_guru.flyweight.example.trees.TreeFactory;
 import trees.TreeFactory;
 import trees.Tree;
 import trees.TreeType;
